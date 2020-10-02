@@ -1,6 +1,6 @@
 # IKEv2 VPN Server on Docker
 
-Recipe to build [`gaomd/ikev2-vpn-server`](https://registry.hub.docker.com/u/shrlkholmes/ikev2-vpn-server/) Docker image.
+Recipe to build [`shrlkholmes/ikev2-vpn-server`](https://registry.hub.docker.com/u/shrlkholmes/ikev2-vpn-server/) Docker image.
 
 ## Usage
 
